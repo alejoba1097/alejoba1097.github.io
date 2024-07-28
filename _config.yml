@@ -2,3 +2,10 @@ title: Alejandro Barrientos
 logo: assets/img/profile_pic.jpg
 description: Process Engineer - MSc. Data Science and Analytics
 theme: jekyll-theme-minimal
+personal-info:
+  email: alejoba1097@gmail.com
+  skills:
+    - Skill 1
+    - Skill 2
+    - Skill 3
+    - Skill 4

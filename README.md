@@ -1,6 +1,6 @@
 # Data Science - Data Engineering - Machine Learning - MLOPs
 
-# About Me (Update this here and in LinkedIn)
+# About Me (Update this here and in LinkedIn) Move it to description instead, looks better and fills that space. See if we can add personal info there as well.
 
 My name is Alejandro Barrientos. I'm a Process Engineer with a focus on the design of chemical and biotechnological processes, currently pursuing a Master's degree in Data Science. I possess skills in the design, management, and optimization of physicochemical processes through a systematic approach. My expertise includes process modeling, simulation, and control, ensuring quality assurance using computational tools. Additionally, I am proficient in various machine learning algorithms, leveraging this knowledge to enhance data-driven insights. As a responsible, proactive individual passionate about my work, I demonstrate leadership qualities and excel in collaborative team environments.
 
@@ -20,7 +20,21 @@ Include info about data science, data engineer, software development, machine le
 
 # Work Experience
 
-# Skills
+# Languages
+
+# Skills (Make 2 columns)
+## Hard skills
+- Python
+- SQL
+- NoSQL (Which ones (?))
+- Spark (PySpark)
+- AWS (What services exactly)
+- CI/CD (?)
+
+## Soft skills
+- Analysis
+- Leadershiip
+
 
 # Projects
 
@@ -105,8 +119,13 @@ What do we want to generate? It would be nice to do something with different dat
 
 ## MLOps and Production Deployments
 - MLFlow. Not going to use it for the rest of the projects, tbh
-- CI/CD with Github actions
+- CI/CD with Github actions/Jenkins
 - Docker images
 - Kubernetes
 - Airflow (?)
 - DVC
+- Pytest (unit tests, integration tests, load tests)
+- Data Engineering
+
+## Data Engineering
+ETL with something, anything, it doesn't matter what

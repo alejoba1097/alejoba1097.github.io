@@ -1,0 +1,12 @@
+<div class="personal-info">
+    <h2>Personal Info</h2>
+    <p><strong>Email:</strong> <a href="mailto:{{ site.personal-info.email }}">{{ site.personal-info.email }}</a></p>
+    <!-- <p><strong>Phone:</strong>{{ site.personal-info.phone }}</p> -->
+    <h2>Skills</h2>
+    <ul>
+        {% for skill in site.personal-info.skills %}
+            <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+
+</div>
