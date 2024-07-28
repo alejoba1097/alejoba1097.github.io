@@ -1,4 +1,34 @@
-# Data Science - Data Engineering - Machine Learning - MLOPs
+# About Me
+
+Process Engineer with a Master's degree in Data Science and Analytics. I am a passionate data scientist and inspiring lead, specialized in data engineering, machine learning and software development. My professional journey has been marked by a blend of technical expertise and leadership experience, enabling me to deliver impactful data-driven solutions.
+
+Currently, I am a Data Engineer, building ETL solutions for Power BI visualizations. I specialize in pulling data from major applications and third-party APIs to create comprehensive and insightful reports. I have always demonstrated leadership skills, earning recognition as a technical lead among my peers and within the company. In my previous roles, I have served as an Operations Coordinator and Operations Supervisor, overseeing teams and generating actionable insights to improve client services and operational efficiency.
+
+My professional interests lie at the intersection of software development, data analytics, and machine learning, using Python as my main programming language. I am dedicated to developing tailored solutions that drive business improvement and innovation. My experience includes building robust data pipelines and ETL processes using Lambda functions, Redshift, and RDS to ensure data availability for visualization and analysis. I have also developed Power BI reports tailored to client needs, facilitating informed decision-making and efficient tracking of day-to-day transactions.
+
+During my master's program, I developed expertise in various machine learning paradigms, including supervised, unsupervised, reinforcement, and evolutionary learning. My projects spanned multiple domains, with a focus on Natural Language Processing (NLP), data mining, text processing, and big data analytics using Spark. These experiences have honed my ability to develop and implement sophisticated ML models and algorithms.
+
+I am currently studying MLOps and Generative AI to stay on top of the latest research and advancements in the field. My goal is to become a technical lead, working with expert teams in ML and Generative AI to develop transformative solutions.
+
+Key Projects:
+
+- Created process workflows based on Agile frameworks to boost team performance.
+- Developed an application to monitor agents' performance, utilizing daily data from QlikSense.
+- Implemented ETL processes using Lambda functions, Redshift, and RDS, ensuring seamless data integration and availability.
+- Created Power BI reports to support client decision-making and operational transparency.
+- Completed projects in NLP, focusing on data mining, text processing, and big data using Spark.
+
+Core Skills:
+
+- **Statistics & Math:** Strong analytical foundation for data-driven decision-making.
+- **Data Analysis:** Proficient in building data pipelines and performing complex data analysis.
+- **Machine Learning:** Proficient in developing and deploying supervised, unsupervised, reinforcement, and evolutionary learning models.
+- **Data Engineering:** Skilled in building ETL solutions and integrating data from various sources.
+- **NLP & Big Data:** Experienced in data mining, text processing, and big data technologies like Spark.
+- **Software Development:** Proficient in Python, SQL, and big data technologies like PySpark.
+- **Visualization:** Skilled in creating insightful Power BI reports tailored to client needs.
+- **Leadership:** Proven track record of leading teams and driving operational excellence.
+- **Generative AI:** Knowledgeable in the latest advancements and applications of generative AI.
 
 # Questions/To-Do
 

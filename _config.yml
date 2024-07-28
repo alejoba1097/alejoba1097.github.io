@@ -1,15 +1,7 @@
 title: Alejandro Barrientos
 logo: assets/img/profile_pic.jpg
 subtitle: Process Engineer - MSc. Data Science and Analytics
-keywords: Data Science | Data Engineering | Machine Learning | MLOps | Generative AI
-description: >- 
-  My name is Alejandro Barrientos. I'm a Process Engineer with a focus on the design of chemical and biotechnological processes, currently pursuing
-  a Master's degree in Data Science. I possess skills in the design, management, and optimization of physicochemical processes through a systematic approach.
-  My expertise includes process modeling, simulation, and control, ensuring quality assurance using computational tools.
-  Additionally, I am proficient in various machine learning algorithms, leveraging this knowledge to enhance data-driven insights.
-  As a responsible, proactive individual passionate about my work, I demonstrate leadership qualities and excel in collaborative team environments.
-  Include info about data science, data engineer, software development, machine learning, MLOps, statistics and explainability,
-  deployment, cloud-based applications, etc.
+description: Math and Statistics | Data Engineering | Machine Learning | MLOps | Generative AI | Python | AWS | Leadership
 theme: jekyll-theme-minimal
 personal-info:
   email: alejoba1097@gmail.com
