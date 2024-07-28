@@ -1,11 +1,5 @@
 # Data Science - Data Engineering - Machine Learning - MLOPs
 
-# About Me (Update this here and in LinkedIn) Move it to description instead, looks better and fills that space. See if we can add personal info there as well.
-
-My name is Alejandro Barrientos. I'm a Process Engineer with a focus on the design of chemical and biotechnological processes, currently pursuing a Master's degree in Data Science. I possess skills in the design, management, and optimization of physicochemical processes through a systematic approach. My expertise includes process modeling, simulation, and control, ensuring quality assurance using computational tools. Additionally, I am proficient in various machine learning algorithms, leveraging this knowledge to enhance data-driven insights. As a responsible, proactive individual passionate about my work, I demonstrate leadership qualities and excel in collaborative team environments.
-
-Include info about data science, data engineer, software development, machine learning, MLOps, statistics and explainability, deployment, cloud-based applications, etc.
-
 # Questions/To-Do
 
 - Do we want to add absolutely everything we know here, or only what we want to showcase?
