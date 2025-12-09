@@ -1,0 +1,38 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* Custom font sizes - adjust these values as needed */
+$doc-font-size: 14px;        /* Base font size (default: 16px) */
+$doc-font-size-small: 12px;  /* Small screens */
+
+/* Heading sizes */
+$h-size-1: 1.563em;  /* h1 */
+$h-size-2: 1.25em;   /* h2 */
+$h-size-3: 1.125em;  /* h3 */
+$h-size-4: 1.0625em; /* h4 */
+$h-size-5: 1.03125em;/* h5 */
+$h-size-6: 1em;      /* h6 */
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Justify all text */
+.page__content p,
+.page__content li,
+.author__bio {
+  text-align: justify;
+}
+
+/* Lighter grey body background */
+body {
+  background-color: #3d4351;
+}
+
+/* Masthead (header) same color as navbar */
+.masthead {
+  background-color: #252a34;
+}
+
