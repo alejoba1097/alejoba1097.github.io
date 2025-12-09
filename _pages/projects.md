@@ -15,6 +15,17 @@ permalink: /projects/
 
 ---
 
+## Shipping Label OCR System (Computer Vision + NLP) — Tres Astronautas
+
+- Built and iterated on an end-to-end OCR pipeline for shipping label extraction: segmentation, text detection, and token classification models (achieving 0.97+ precision)
+- Developed FastAPI-based inference API with GPU/CPU support, health monitoring, and Kubernetes deployments on Azure
+- Implemented image preprocessing pipelines (deskew, orientation correction, brightness/contrast) and integrated GPT-4o for OCR post-correction
+- Managed ML lifecycle with DVC, CI/CD via Azure Pipelines, and continuous model retraining from production feedback
+
+**Stack:** Python, PyTorch, Detectron2, Transformers, FastAPI, Docker, Azure, DVC, OpenCV
+
+---
+
 ## Contact Center Analytics Platform (ETL + BI)
 
 - Designed and implemented end-to-end ETL pipelines feeding Power BI dashboards for client operations
