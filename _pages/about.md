@@ -3,11 +3,13 @@ title: "About Me"
 permalink: /about/
 ---
 
-Machine Learning Engineer and Process Engineer based in Medellín, with a strong focus on computer vision, OCR, and turning messy data into production-ready ML systems. Over the last few years I've worked end-to-end: from data collection and labeling, through model training and evaluation, to deploying models on cloud and edge/mobile devices.
+Machine Learning Engineer based in Medellín with **5+ years of experience** in Python, data analysis, and machine learning. I specialize in computer vision, OCR, document understanding, and turning messy data into production-ready ML systems.
 
-Right now I design and ship ML and data solutions across AWS and Azure: building pipelines (Spark, Python), data warehouses (Redshift, RDS), and analytics layers (Power BI, Qlik Sense) that actually get used by stakeholders. Before moving fully into data and ML, I led operations teams, so I'm very comfortable owning KPIs, talking to non-technical stakeholders, and translating business problems into technical work.
+I work end-to-end on ML projects: from data collection and labeling, through model training and evaluation, to deploying optimized models on cloud (AWS, Azure) and edge/mobile devices (Jetson Orin/Nano, ONNX Runtime, Flutter). My recent work includes building 3D point cloud workflows with Open3D and depth cameras for dimension estimation, as well as implementing RAG systems and working with LLMs.
 
-My background is an MSc in Data Science and Analytics plus a BSc in Process Engineering, and I'm actively leveling up in MLOps and Generative AI to keep pushing toward a technical lead role in ML/AI teams.
+Beyond ML, I design and ship data solutions: building pipelines (Spark, Python), data warehouses (Redshift, RDS), and analytics layers (Power BI, Qlik Sense) that actually get used by stakeholders. Before moving fully into data and ML, I led operations teams—so I'm comfortable owning KPIs, talking to non-technical stakeholders, and translating business problems into technical work.
+
+My background is an MSc in Data Science and Analytics plus a BSc in Process Engineering. I hold AWS Certified AI Practitioner and AWS Certified Cloud Practitioner certifications, and I'm actively leveling up in MLOps and Generative AI to keep pushing toward a technical lead role in ML/AI teams.
 
 ## Tech Stack
 

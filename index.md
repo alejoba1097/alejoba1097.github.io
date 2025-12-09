@@ -4,9 +4,9 @@ layout: home
 author_profile: true
 ---
 
-Machine Learning Engineer and Process Engineer based in Medellín, with a strong focus on computer vision, OCR, and turning messy data into production-ready ML systems.
+Machine Learning Engineer based in Medellín with **5+ years of experience** in Python, data analysis, and machine learning. I specialize in generative AI, computer vision, OCR, document understanding, and turning messy data into production-ready ML systems.
 
-I design and ship ML and data solutions across AWS and Azure: building pipelines, data warehouses, and analytics layers that actually get used by stakeholders.
+Currently working on end-to-end ML solutions: from model training and evaluation to deploying optimized models on cloud (AWS, Azure) and edge/mobile devices (Jetson, ONNX Runtime, Flutter). I also build data pipelines, warehouses, and analytics layers that deliver real value to stakeholders.
 
 ## Tech Stack
 
