@@ -59,7 +59,7 @@ Medellín, Antioquia, Colombia | +57 312 813 8417 | <a href="mailto:alejoba1097@
 
 **MSc in Data Science and Analytics** — EAFIT University | July 2021 – September 2024
 
-**Thesis:** *Precision Matrix Estimation using Preconditioned Conjugate Gradient with Regularization*
+**Thesis:** [*Precision Matrix Estimation using Preconditioned Conjugate Gradient with Regularization*](/assets/Masters_Degree_Thesis.pdf)
 - **Mathematical Focus:** Numerical Linear Algebra, Convex Optimization, High-Dimensional Statistics
 - **Key Achievement:** Developed a methodology using Ledoit & Wolf regularization and Neumann series preconditioners to ensure covariance matrix invertibility and accelerate PCG convergence in singular, high-dimensional settings
 - **Theoretical Foundation:** Gained deep knowledge of Gradient-based methods, Stochastic Optimization, and Matrix Theory
