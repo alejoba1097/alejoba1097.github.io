@@ -11,52 +11,47 @@ Medellín, Antioquia, Colombia | +57 312 813 8417 | <a href="mailto:alejoba1097@
 
 ---
 
-## Summary
+## Research Interests
 
-Machine Learning Engineer and Process Engineer with 3+ years of experience in computer vision, data engineering, and analytics. End-to-end work on OCR and document understanding, model training and evaluation, MLOps, and deployment on cloud and edge/mobile devices. Strong background in statistics and operations, used to turn messy data into production ML systems.
+**Primary:** Optimization for Deep Learning, Continuous Optimization, Numerical Linear Algebra (Iterative Methods)
+
+**Applications:** Computer Vision, High-Dimensional Statistics, Geometric Deep Learning (3D), Edge AI Efficiency
 
 ---
 
 ## Skills
 
-**Languages:** Python, R, SQL
+**Languages:** Python, R, SQL, C++
 
-**ML & Data Science:** PyTorch, scikit-learn, ONNX Runtime, MLflow, OpenCV, classical ML, deep learning, time series, regression, experimentation, RAG, LLMs, fine-tuning, zero-shot inference, few-shot inference
+**Deep Learning:** PyTorch, TensorFlow, Transformers, LLMs (Fine-tuning, RAG), ONNX Runtime, OpenCV
 
-**Computer Vision:** OCR, document understanding, image classification, object detection, segmentation, 3D point clouds (Open3D, depth cameras)
+**Data & Tools:** AWS (SageMaker, Lambda, Glue), Docker, Kubernetes, Spark, Git, MLflow
 
-**Data Engineering & Analytics:** ETL, data modeling, Spark, Power BI, Qlik Sense
-
-**Cloud & MLOps:** AWS (S3, EC2, Lambda, Glue, Kinesis, SageMaker, EKS/ECS, RDS, Redshift, DynamoDB), Azure ML Studio, Docker, Kubernetes, DVC, CI/CD, edge/mobile deployment
-
-**Databases:** PostgreSQL, MongoDB, Chroma, Pinecone
-
-**Methods:** Agile, Scrum, stakeholder management, process improvement, data-driven decision making
+**Mathematics:** Multivariate Calculus, Linear Algebra, Probability, Statistics
 
 ---
 
 ## Experience
 
-### Machine Learning Developer
+### Machine Learning Engineer
 **Tres Astronautas** — Medellín, Colombia | August 2024 – Present
 
-- Design, train, and deploy computer vision models for OCR, document classification, detection, and segmentation in production workflows
-- Build ML pipelines from data collection and labeling to evaluation, packaging, and API integration with existing systems
-- Implement 3D point cloud workflows with Open3D and depth cameras for dimension estimation and geometric features used by downstream models
-- Optimize and deploy ONNX models on edge devices (Jetson Orin/Nano) and mobile, balancing latency, accuracy, and memory constraints
+- **End-to-End MLOps & Architecture:** As the ML engineer, architected and deployed full-stack pipelines from data extraction to inference on Kubernetes clusters and mobile devices
+- **NLP & Representation Learning:** Engineered semantic search systems by fine-tuning bi-encoder models for domain-specific similarity tasks. Implemented RAG pipelines using vector databases (embedding retrieval) combined with OCR outputs
+- **Edge AI Optimization:** Optimized Convolutional Neural Networks (ResNet, MobileNet) for document segmentation and classification. Focused on maximizing accuracy under strict latency and memory constraints for edge deployment
+- **Geometric Data Processing:** Developed algorithms for the manipulation and feature extraction of 3D point clouds to support spatial analysis tasks
 
 ### Data Engineer
 **Neostella** — Medellín, Colombia | Oct 2023 – Aug 2024
 
-- Developed data pipelines from ingestion to visualization using Python and Spark, enabling analytics and ML use cases on AWS
-- Built and maintained AWS data warehousing solutions (Redshift, RDS, Glue, Lambda), including data modeling and performance tuning
-- Automated infrastructure with CloudFormation and Infrastructure as Code to standardize and reproduce environments
-- Created Power BI dashboards, translating business questions into datasets and metrics for stakeholders
+- Architected scalable data pipelines using Python and Spark on AWS, enabling high-volume analytics for ML use cases
+- Implemented Infrastructure as Code (CloudFormation) to ensure reproducibility of experimental environments
+- Modeled complex datasets in Redshift and RDS to support business intelligence and predictive modeling
 
-### Operations Coordinator / Supervisor / Customer Service Representative
+### Operations Coordinator & Data Analyst
 **Webhelp** — Medellín, Colombia | Mar 2020 – Oct 2023
 
-- Progressed from CSR to Supervisor and Operations Coordinator, leading teams and using Qlik Sense, Power BI, and Excel to analyze game and operations data and drive KPI improvements for a global gaming client
+- Led data-driven operational improvements using QlikSense and Power BI, analyzing large-scale datasets to optimize Key Performance Indicators (KPIs) for a global gaming client
 
 ---
 
@@ -64,18 +59,38 @@ Machine Learning Engineer and Process Engineer with 3+ years of experience in co
 
 **MSc in Data Science and Analytics** — EAFIT University | July 2021 – September 2024
 
+**Thesis:** *Precision Matrix Estimation using Preconditioned Conjugate Gradient with Regularization*
+- **Mathematical Focus:** Numerical Linear Algebra, Convex Optimization, High-Dimensional Statistics
+- **Key Achievement:** Developed a methodology using Ledoit & Wolf regularization and Neumann series preconditioners to ensure covariance matrix invertibility and accelerate PCG convergence in singular, high-dimensional settings
+- **Theoretical Foundation:** Gained deep knowledge of Gradient-based methods, Stochastic Optimization, and Matrix Theory
+
 **BSc in Process Engineering** — EAFIT University | February 2015 – November 2019
+
+**Relevant Coursework:** Multivariate Calculus, Differential Equations, Linear Algebra, Probability & Statistics, Process Control (Optimization), Thermodynamics, Industrial Processes Design
+
+---
+
+## Conferences & Professional Development
+
+**International Conference on Machine Learning (ICML)** — 2025 | Virtual Attendee
+
+Followed tracks on Optimization for Machine Learning and Large Scale Learning to stay current with state-of-the-art research trends.
+
+**34° Simposio Internacional de Estadística** — 2025 | Attendee
+
+Engaged with presentations on statistical methodologies and their applications in high-dimensional data analysis.
 
 ---
 
 ## Certifications
 
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
+- AWS Certified Machine Learning Engineer – Associate (2025)
+- AWS Certified AI Practitioner (2025)
+- AWS Certified Cloud Practitioner (2025)
 
 ---
 
 ## Languages
 
 - Spanish (Native)
-- English (C1)
+- English (C1 – Advanced/Full Professional Proficiency)
