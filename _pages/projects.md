@@ -3,6 +3,19 @@ title: "Projects"
 permalink: /projects/
 ---
 
+## [Precision Matrix Estimation using Preconditioned Conjugate Gradient with Regularization (Master's Thesis)](/assets/Masters_Degree_Thesis.pdf)
+
+- Developed a methodology for precision matrix estimation in high-dimensional, singular settings where traditional inversion fails
+- Applied Ledoit & Wolf regularization to ensure covariance matrix invertibility and Neumann series preconditioners to accelerate Preconditioned Conjugate Gradient (PCG) convergence
+- Conducted theoretical analysis of convergence properties and empirical validation on synthetic and real-world datasets
+- Focus areas: Numerical Linear Algebra, Convex Optimization, High-Dimensional Statistics
+
+**Stack:** Python, NumPy, SciPy, Matplotlib
+
+[View Thesis (PDF)](/assets/Masters_Degree_Thesis.pdf)
+
+---
+
 ## [RAG Knowledge Base Assistant (Generative AI)](/projects/rag-knowledge-base/)
 
 - Built a Retrieval-Augmented Generation (RAG) application to answer domain-specific questions over internal documentation
