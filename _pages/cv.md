@@ -31,30 +31,6 @@ Medellín, Antioquia, Colombia | +57 312 813 8417 | <a href="mailto:alejoba1097@
 
 ---
 
-## Experience
-
-### Machine Learning Engineer
-**Tres Astronautas** — Medellín, Colombia | August 2024 – Present
-
-- **End-to-End MLOps & Architecture:** As the ML engineer, architected and deployed full-stack pipelines from data extraction to inference on Kubernetes clusters and mobile devices
-- **NLP & Representation Learning:** Engineered semantic search systems by fine-tuning bi-encoder models for domain-specific similarity tasks. Implemented RAG pipelines using vector databases (embedding retrieval) combined with OCR outputs
-- **Edge AI Optimization:** Optimized Convolutional Neural Networks (ResNet, MobileNet) for document segmentation and classification. Focused on maximizing accuracy under strict latency and memory constraints for edge deployment
-- **Geometric Data Processing:** Developed algorithms for the manipulation and feature extraction of 3D point clouds to support spatial analysis tasks
-
-### Data Engineer
-**Neostella** — Medellín, Colombia | Oct 2023 – Aug 2024
-
-- Architected scalable data pipelines using Python and Spark on AWS, enabling high-volume analytics for ML use cases
-- Implemented Infrastructure as Code (CloudFormation) to ensure reproducibility of experimental environments
-- Modeled complex datasets in Redshift and RDS to support business intelligence and predictive modeling
-
-### Operations Coordinator & Data Analyst
-**Webhelp** — Medellín, Colombia | Mar 2020 – Oct 2023
-
-- Led data-driven operational improvements using QlikSense and Power BI, analyzing large-scale datasets to optimize Key Performance Indicators (KPIs) for a global gaming client
-
----
-
 ## Education
 
 **MSc in Data Science and Analytics** — EAFIT University | July 2021 – September 2024
@@ -82,11 +58,27 @@ Engaged with presentations on statistical methodologies and their applications i
 
 ---
 
-## Certifications
+## Experience
 
-- AWS Certified Machine Learning Engineer – Associate (2025)
-- AWS Certified AI Practitioner (2025)
-- AWS Certified Cloud Practitioner (2025)
+### Machine Learning Engineer
+**Tres Astronautas** — Medellín, Colombia | August 2024 – Present
+
+- **End-to-End MLOps & Architecture:** As the ML engineer, architected and deployed full-stack pipelines from data extraction to inference on Kubernetes clusters and mobile devices
+- **NLP & Representation Learning:** Engineered semantic search systems by fine-tuning bi-encoder models for domain-specific similarity tasks. Implemented RAG pipelines using vector databases (embedding retrieval) combined with OCR outputs
+- **Edge AI Optimization:** Optimized Convolutional Neural Networks (ResNet, MobileNet) for document segmentation and classification. Focused on maximizing accuracy under strict latency and memory constraints for edge deployment
+- **Geometric Data Processing:** Developed algorithms for the manipulation and feature extraction of 3D point clouds to support spatial analysis tasks
+
+### Data Engineer
+**Neostella** — Medellín, Colombia | Oct 2023 – Aug 2024
+
+- Architected scalable data pipelines using Python and Spark on AWS, enabling high-volume analytics for ML use cases
+- Implemented Infrastructure as Code (CloudFormation) to ensure reproducibility of experimental environments
+- Modeled complex datasets in Redshift and RDS to support business intelligence and predictive modeling
+
+### Operations Coordinator & Data Analyst
+**Webhelp** — Medellín, Colombia | Mar 2020 – Oct 2023
+
+- Led data-driven operational improvements using QlikSense and Power BI, analyzing large-scale datasets to optimize Key Performance Indicators (KPIs) for a global gaming client
 
 ---
 
@@ -94,3 +86,11 @@ Engaged with presentations on statistical methodologies and their applications i
 
 - Spanish (Native)
 - English (C1 – Advanced/Full Professional Proficiency)
+
+---
+
+## Certifications
+
+- AWS Certified Machine Learning Engineer – Associate (2025)
+- AWS Certified AI Practitioner (2025)
+- AWS Certified Cloud Practitioner (2025)
